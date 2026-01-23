@@ -36,6 +36,7 @@ Books
 1. [Deep Learning with Text: Natural Language Processing (Almost) from Scratch with Python and spaCy](https://www.amazon.com/Deep-Learning-Text-Approach-Processing/dp/1491984414) by Patrick Harrison and Matthew Honnibal 
 1. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg and Graeme Hirst
 1. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Yang Liu
+1. [The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/) - Free book teaching the math behind AI with plain English explanations and Python code examples
 1. [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) by Hobson Lane, Cole Howard, and Hannes Hapke
 1. Deep Learning: Natural Language Processing in Python by The LazyProgrammer (Kindle only)
 	1. [Word2Vec and Word Embeddings in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Embeddings-ebook/dp/B01KQ0ZN0A)
